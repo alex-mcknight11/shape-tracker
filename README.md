@@ -14,6 +14,8 @@
 - _jQuery_
 - _npm_
 - _Webpack_
+- _Bootstrap_
+- _Popper_
 
 ## Description
 
